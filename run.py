@@ -1,7 +1,7 @@
 message = "Hello world"
 print(message)
 
-a = 10
+a = 100
 b = 10
 c = a + b
 print(c)
